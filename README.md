@@ -1,1 +1,1 @@
-# Laboratornay-1.Informatika
+# Laboratornay-4.Programmirovanie
